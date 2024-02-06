@@ -1,2 +1,0 @@
-username = hezed
-password = 12345
